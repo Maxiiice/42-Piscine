@@ -1,6 +1,6 @@
 # 42-Piscine
 
-Repo including all exercises i did during 42 Lyon C Piscine
+Repo including all exercises i did during 42 Paris C Piscine
 
 ## ⚠️ Disclaimer
 
